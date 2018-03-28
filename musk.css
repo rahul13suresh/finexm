@@ -1,0 +1,32 @@
+nav {
+	float: right;
+}
+a:hover {
+    background-color: #555;
+    color: white;
+}
+
+h1 {
+	color:red;
+	text-align:center;
+}
+div.leftbox {
+		float:left;
+		margin:auto;
+}
+
+div.rightbox {
+		float: right;
+		color: slateblue;
+margin:auto;
+}
+h3 {
+   text-align:center;
+font-weight:bold;
+text-decoration:underline;
+}
+
+div.centerbox { margin:auto;
+		}
+
+
